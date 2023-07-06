@@ -10,3 +10,4 @@ int get_endianness(void)
 
 	return ((int)*c);
 }
+
